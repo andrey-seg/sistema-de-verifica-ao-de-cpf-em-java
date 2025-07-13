@@ -1,0 +1,5 @@
+com/cadastro/model/Pessoa.class
+com/cadastro/controller/PessoaController.class
+com/cadastro/repository/PessoaRepository.class
+com/cadastro/controller/HomeController.class
+com/cadastro/CadastroWebApplication.class

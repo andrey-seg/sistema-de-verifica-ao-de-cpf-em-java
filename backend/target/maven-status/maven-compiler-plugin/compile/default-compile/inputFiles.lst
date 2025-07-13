@@ -1,0 +1,5 @@
+/home/ay-se-re/cadastro-web/backend/src/main/java/com/cadastro/CadastroWebApplication.java
+/home/ay-se-re/cadastro-web/backend/src/main/java/com/cadastro/model/Pessoa.java
+/home/ay-se-re/cadastro-web/backend/src/main/java/com/cadastro/controller/HomeController.java
+/home/ay-se-re/cadastro-web/backend/src/main/java/com/cadastro/controller/PessoaController.java
+/home/ay-se-re/cadastro-web/backend/src/main/java/com/cadastro/repository/PessoaRepository.java
